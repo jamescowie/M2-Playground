@@ -55,9 +55,11 @@
         "psr-4": {
             "Magento\\Framework\\": "lib/internal/Magento/Framework/",
             "Magento\\Setup\\": "setup/src/Magento/Setup/",
-            "Magento\\": "app/code/Magento/"
+            "Magento\\": "app/code/Magento/",
+            "Jcowie\\HelloWorldModule\\": "src/Jcowie/HelloWorldModule/"
         },
         "psr-0": {
+            "Jcowie\\HelloWorldModule\\": "src/Jcowie/HelloWorldModule/",
             "": "app/code/"
         },
         "files": [

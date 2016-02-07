@@ -46,7 +46,9 @@
         "fabpot/php-cs-fixer": "~1.2",
         "lusitanian/oauth": "~0.3 <=0.7.0",
         "behat/behat": "3.*",
-        "phpspec/phpspec": "2.*"
+        "phpspec/phpspec": "2.*",
+        "symfony/process": "~2.1|~3.0",
+        "bossa/phpspec2-expect": "*"
     },
     "config": {
         "use-include-path": true
